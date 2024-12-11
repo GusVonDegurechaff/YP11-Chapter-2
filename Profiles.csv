@@ -2,7 +2,7 @@ profile_id,game_id,stat_id,profile_name,user_id
 16,1,13,User1,1
 17,3,14,Test1,1
 18,10,15,Testuser1,3
-19,5,,16,Mulo,2
+19,5,16,Mulo,2
 20,7,17,Xeyan,2
 21,9,18,Hylynuata,2
 22,4,19,Edwilla,3
