@@ -1,11 +1,11 @@
 GameID,game_name,developer,release_date,description,genre,cover_image
 1,Game2,Dev1,2023-10-26,,Adventure,cover1.png
-2,AdventureQuest,GameDevCo,2023-05-15,Adventure,cover2.png
-3,God of War,Raven Software,2005-03-22,"An epic adventure through Greek mythology.",,Action,Adventure,cover4.jpg
-4,Halo:BCE,Bungie Studios,2001-11-15,"A futuristic shooter set on an alien-infested ringworld.",,First-person Shooter,Science Fiction,cover5.jpg
-5,Call of Duty: Modern Warfare,Infinity Ward,2007-11-06,"Modern military combat at its finest.",,First-person Shooter,Military,cover6.jpg
-6,Grand Theft Auto V,Rockstar North,2013-09-17,"One of the best-selling video games of all time.",,Open World,Crime,cover7.jpg
-7,Red Dead Redemption II,Rockstar San Diego,2018-10-26,"A Western epic set in America’s Wild West.",,Western,Action-Adventure,cover8.jpg
-8,The Legend of Zelda: Breath of the Wild,Nintendo,2017-03-03,"A fantasy adventure with Zelda's quest to save Hyrule.",,Action-Adventure,Fantasy,cover9.jpg
-9,Super Mario Odyssey,Nintendo,2017-10-27,"A classic platformer with new twists.",,Platformer,Family-friendly,cover10.jpg
-10,Dota 2,Valve Corporation,2013-07-09,"The most popular MOBA game ever.",,Multiplayer Online Battle Arena,cover3.jpg
+2,AdventureQuest,GameDevCo,2023-05-15,,Adventure,cover2.png
+3,God of War,Raven Software,2005-03-22,,"An epic adventure through Greek mythology.",Action,Adventure,cover4.jpg
+4,Halo:BCE,Bungie Studios,2001-11-15,,"A futuristic shooter set on an alien-infested ringworld.",First-person Shooter,Science Fiction,cover5.jpg
+5,Call of Duty: Modern Warfare,Infinity Ward,2007-11-06,,"Modern military combat at its finest.",First-person Shooter,Military,cover6.jpg
+6,Grand Theft Auto V,Rockstar North,2013-09-17,,"One of the best-selling video games of all time.",Open World,Crime,cover7.jpg
+7,Red Dead Redemption II,Rockstar San Diego,2018-10-26,,"A Western epic set in America’s Wild West.",Western,Action-Adventure,cover8.jpg
+8,The Legend of Zelda: Breath of the Wild,Nintendo,2017-03-03,,"A fantasy adventure with Zelda's quest to save Hyrule.",Action-Adventure,Fantasy,cover9.jpg
+9,Super Mario Odyssey,Nintendo,2017-10-27,,"A classic platformer with new twists.",Platformer,Family-friendly,cover10.jpg
+10,Dota 2,Valve Corporation,2013-07-09,,"The most popular MOBA game ever.",Multiplayer Online Battle Arena,cover3.jpg
