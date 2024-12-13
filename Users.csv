@@ -1,4 +1,4 @@
-UserID,username,email,password
+user_id,username,email,password
 1,user1,user1@example.com,hashed_password
 2,user2,user2@example.com,hashed_password
 3,Dekma,dekma123@gmail.com,Mnevseravno
