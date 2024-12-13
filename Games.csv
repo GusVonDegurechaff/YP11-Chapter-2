@@ -1,4 +1,4 @@
-GameID,game_name,developer,release_date,description,genre,cover_image
+game_id,game_name,developer,release_date,description,genre,cover_image
 1,Game2,Dev1,2023-10-26,,Adventure,cover1.png
 2,AdventureQuest,GameDevCo,2023-05-15,,Adventure,cover2.png
 3,God of War,Raven Software,2005-03-22,,"An epic adventure through Greek mythology.",Action,Adventure,cover4.jpg
